@@ -4,7 +4,6 @@ INDEX VERSION 1.126+F:\Java\novenyek_szornyek\.metadata\.plugins\org.eclipse.jdt
 1697886153.index
 4108727661.index
 4041092966.index
-1360010585.index
 163172794.index
 1995173708.index
 3974580528.index
